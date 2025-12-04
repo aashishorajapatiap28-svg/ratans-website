@@ -27,9 +27,7 @@ const ContactUs = () => {
       icon: Mail,
       title: "Email Addresses",
       details: [
-        "info@indiagate.in",
         "customercare@ratansfoods.com",
-        "sales@indiagate.in"
       ]
     },
     {
